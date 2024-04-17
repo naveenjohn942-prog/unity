@@ -1,0 +1,11 @@
+# Unity generated
+.vs/
+[aA]ndroid[bB]uild/
+[Bb]uilds/
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]bj/
+[Tt]emp/
+ignore.conf
+.plastic/
